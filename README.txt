@@ -1,6 +1,3 @@
-This is the README file for the submission of:
-JOYCE YEO SHUHUI
-
 == Python Version ==
 
 I'm using Python Version 3.6.6 for this assignment.
